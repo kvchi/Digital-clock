@@ -1,5 +1,3 @@
-https://kvchi.github.io/Digital-clock/
-
 
 # 🕒 Digital Clock
 
@@ -28,4 +26,4 @@ A sleek, real-time digital clock built with **HTML**, **CSS**, and **JavaScript*
 Clone the repo or download the files manually:
 
 ```bash
-
+https://github.com/kvchi/Digital-clock.git
